@@ -1,0 +1,8 @@
+D:\2.1\IT 2143\First Programme\First Programme\bin\Debug\First Programme.exe.config
+D:\2.1\IT 2143\First Programme\First Programme\bin\Debug\First Programme.exe
+D:\2.1\IT 2143\First Programme\First Programme\bin\Debug\First Programme.pdb
+D:\2.1\IT 2143\First Programme\First Programme\obj\Debug\First Programme.csproj.AssemblyReference.cache
+D:\2.1\IT 2143\First Programme\First Programme\obj\Debug\First Programme.csproj.CoreCompileInputs.cache
+D:\2.1\IT 2143\First Programme\First Programme\obj\Debug\First Programme.exe
+D:\2.1\IT 2143\First Programme\First Programme\obj\Debug\First Programme.pdb
+D:\2.1\IT 2143\First Programme\First Programme\obj\Debug\First Programme.exe.config
