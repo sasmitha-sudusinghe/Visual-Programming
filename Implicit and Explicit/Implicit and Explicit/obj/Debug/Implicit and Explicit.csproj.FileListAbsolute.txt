@@ -1,0 +1,8 @@
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\bin\Debug\Implicit and Explicit.exe.config
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\bin\Debug\Implicit and Explicit.exe
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\bin\Debug\Implicit and Explicit.pdb
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\obj\Debug\Implicit and Explicit.csproj.AssemblyReference.cache
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\obj\Debug\Implicit and Explicit.csproj.CoreCompileInputs.cache
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\obj\Debug\Implicit and Explicit.exe
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\obj\Debug\Implicit and Explicit.pdb
+D:\2.1\IT 2143\Implicit and Explicit\Implicit and Explicit\obj\Debug\Implicit and Explicit.exe.config
