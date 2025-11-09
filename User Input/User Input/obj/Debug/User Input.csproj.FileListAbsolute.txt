@@ -1,0 +1,8 @@
+D:\2.1\IT 2143\User Input\User Input\bin\Debug\User Input.exe.config
+D:\2.1\IT 2143\User Input\User Input\bin\Debug\User Input.exe
+D:\2.1\IT 2143\User Input\User Input\bin\Debug\User Input.pdb
+D:\2.1\IT 2143\User Input\User Input\obj\Debug\User Input.csproj.AssemblyReference.cache
+D:\2.1\IT 2143\User Input\User Input\obj\Debug\User Input.csproj.CoreCompileInputs.cache
+D:\2.1\IT 2143\User Input\User Input\obj\Debug\User Input.exe
+D:\2.1\IT 2143\User Input\User Input\obj\Debug\User Input.pdb
+D:\2.1\IT 2143\User Input\User Input\obj\Debug\User Input.exe.config

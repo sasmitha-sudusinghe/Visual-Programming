@@ -1,0 +1,8 @@
+D:\2.1\IT 2143\Operators\Operators\bin\Debug\Operators.exe.config
+D:\2.1\IT 2143\Operators\Operators\bin\Debug\Operators.exe
+D:\2.1\IT 2143\Operators\Operators\bin\Debug\Operators.pdb
+D:\2.1\IT 2143\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\2.1\IT 2143\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\2.1\IT 2143\Operators\Operators\obj\Debug\Operators.exe
+D:\2.1\IT 2143\Operators\Operators\obj\Debug\Operators.pdb
+D:\2.1\IT 2143\Operators\Operators\obj\Debug\Operators.exe.config

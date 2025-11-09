@@ -1,0 +1,7 @@
+D:\2.1\IT 2143\Switch\Switch\bin\Debug\Switch.exe.config
+D:\2.1\IT 2143\Switch\Switch\bin\Debug\Switch.exe
+D:\2.1\IT 2143\Switch\Switch\bin\Debug\Switch.pdb
+D:\2.1\IT 2143\Switch\Switch\obj\Debug\Switch.csproj.AssemblyReference.cache
+D:\2.1\IT 2143\Switch\Switch\obj\Debug\Switch.csproj.CoreCompileInputs.cache
+D:\2.1\IT 2143\Switch\Switch\obj\Debug\Switch.exe
+D:\2.1\IT 2143\Switch\Switch\obj\Debug\Switch.pdb
